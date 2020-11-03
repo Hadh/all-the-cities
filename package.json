@@ -4,6 +4,7 @@
   "description": "a wrapper API for all-the-cities NPM Package, making it avaible for the client server ( Vue, React..).",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
